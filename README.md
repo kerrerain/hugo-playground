@@ -1,0 +1,5 @@
+# Hugo playground
+
+``` 
+./server.sh
+``` 
